@@ -11,7 +11,7 @@ class JenkinsGithubDemoApplicationTests {
 	Logger logger = LoggerFactory.getLogger(JenkinsGithubDemoApplication.class);
 
 	@Test
-	void contextLoads() {
+	 contextLoads() {
 		logger.info("inside test method..");
 		assert true;
 	}
