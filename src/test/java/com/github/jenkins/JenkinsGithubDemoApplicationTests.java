@@ -13,7 +13,6 @@ class JenkinsGithubDemoApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("inside test method..");
-		logger.info("inside test method22222222222..");
 		assert true;
 	}
 
